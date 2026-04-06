@@ -14,7 +14,7 @@ Replication materials for the study of WHO financing network fragmentation and s
 
 This repository hosts the datasets and processed outputs used in the article:
 
-> Ballesteros Pérez, C., & Santos Domínguez, A. B. (forthcoming). *Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of Systemic Risk in Global Health Governance*. McGill Journal of Global Health.
+> Santos Domínguez, A. B., & Ballesteros Pérez, C. (forthcoming). *Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of Systemic Risk in Global Health Governance*. McGill Journal of Global Health.
 
 The study applies social network analysis (SNA) to the WHO financing and implementation network (2016–2025) and interprets longitudinal structural change through the lens of critical transitions theory.
 
