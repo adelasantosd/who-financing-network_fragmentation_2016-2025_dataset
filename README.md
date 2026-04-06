@@ -21,8 +21,6 @@ In line with principles of research transparency and reproducibility, this repos
 ---
 
 ## Contents
-
-- [Repository structure](#repository-structure)
 - [Data description](#data-description)
 - [Methodological framework](#methodological-framework)
 - [Data workflow](#data-workflow)
@@ -30,21 +28,6 @@ In line with principles of research transparency and reproducibility, this repos
 - [Licence](#licence)
 - [Contact](#contact)
 
----
-
-## Repository Structure
-
-
-```text
-data/
-  raw/         Original WHO IATI datasets transformed into network edge/node CSVs
-  processed/   Gephi outputs and derived network metrics
-docs/
-  methodology/ Notes on data processing, analytical workflow, and supplementary documentation
-references/    Relevant literature and theoretical background
-README.md      This document
-
-```
 ---
 
 ## Data Description
@@ -92,6 +75,13 @@ flowchart TD
     style H fill:#ffe0b2,stroke:#ef6c00,stroke-width:2px
 ```
 
+## Licence
+
+This repository is shared under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence, unless otherwise indicated.
 
 ## Contact
-For questions regarding the repository or replication materials, please contact the authors.
+
+For questions regarding the repository or replication materials, please contact:
+
+Adela B. Santos Domínguez — Geneva Graduate Institute / UNAM — adela.santos@graduateinstitute.ch  
+Carlos Ballesteros Pérez — UNAM — ballesterc@politicas.unam.mx 
