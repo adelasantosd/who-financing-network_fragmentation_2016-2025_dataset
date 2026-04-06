@@ -8,8 +8,6 @@ Replication materials for the study of WHO financing network fragmentation and s
 
 ---
 
----
-
 ## Overview
 
 This repository hosts the datasets and processed outputs used in the article:
@@ -45,6 +43,7 @@ docs/
   methodology/ Notes on data processing, analytical workflow, and supplementary documentation
 references/    Relevant literature and theoretical background
 README.md      This document
+
 ```
 ---
 
