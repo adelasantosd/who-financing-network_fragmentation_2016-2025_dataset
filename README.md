@@ -3,7 +3,7 @@
 Replication materials for the study of WHO financing network fragmentation and systemic risk in global health governance, 2016–2025.
 
 **Associated article:**  
-Santos Domínguez, A. B., & Ballesteros Pérez, C. (2026). *Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of Systemic Risk in Global Health Governance*. **McGill Journal of Global Health, 15**(1), 23–31. Published online 28 April 2026. No DOI assigned by the journal.
+Santos Domínguez, A. B., & Ballesteros Pérez, C. (2026). *Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of Systemic Risk in Global Health Governance*. **McGill Journal of Global Health, 15**(1), 23–31. Published online 28 April 2026. 
 
 **PAPIIT Project:**  
 *Critical Transitions in Global Society and World Politics*
