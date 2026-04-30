@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use these materials, please cite both the published article and the archived repository."
 title: "Replication materials for Network Fragmentation and the 2025 Funding Shock"
 version: "1.0.1"
-doi: "10.5281/zenodo.19894617"
+doi: "10.5281/zenodo.19894616."
 date-released: "2026-04-28"
 authors:
   - family-names: "Santos Dominguez"
@@ -12,7 +12,7 @@ authors:
     given-names: "Carlos"
     orcid: "https://orcid.org/0009-0009-1480-3668"
 repository-code: "https://github.com/adelasantosd/who-financing-network_fragmentation_2016-2025_dataset"
-url: "https://zenodo.org/records/19894617"
+url: "https://zenodo.org/records/19894616"
 license: "CC-BY-4.0"
 keywords:
   - "global health governance"
