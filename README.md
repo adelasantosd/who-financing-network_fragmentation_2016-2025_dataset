@@ -35,14 +35,6 @@ In line with principles of research transparency and reproducibility, this repos
 
 ---
 
-## Associated Publication
-
-Santos Domínguez, A. B., & Ballesteros Pérez, C. (2026). *Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of Systemic Risk in Global Health Governance*. **McGill Journal of Global Health, 15**(1), 23–31. Published online 28 April 2026. No DOI assigned by the journal.
-
-Available at: https://www.mcgill.ca/globalhealth/files/globalhealth/mjgh_2026_1_final.pdf
-
----
-
 ## Data Description
 
 ### Raw data (`data/raw/`)
