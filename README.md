@@ -107,11 +107,11 @@ Please cite both the published article and the archived repository.
 
 **Article**
 
-Santos Domínguez, A. B., & Ballesteros Pérez, C. (2026). Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of Systemic Risk in Global Health Governance. *McGill Journal of Global Health*, 15(1), 23–31. Published online 28 April 2026. No DOI assigned by the journal. https://www.mcgill.ca/globalhealth/files/globalhealth/mjgh_2026_1_final.pdf
+Santos Domínguez, A. B., & Ballesteros Pérez, C. E. (2026). *Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of a Systemic Risk in Global Health Governance*. **McGill Journal of Global Health, 15**(1), 23–31. https://doi.org/10.26443/mjgh.v15i1.1926
 
 **Repository**
 
-Santos Domínguez, A. B., & Ballesteros Pérez, C. (2026). Replication materials for “Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of Systemic Risk in Global Health Governance” (Version 1.0.0) [Research materials]. Zenodo. DOI: TO BE ADDED AFTER RELEASE.
+Santos Domínguez, A. B., & Ballesteros Pérez, C. (2026). Replication materials for “Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of Systemic Risk in Global Health Governance” (Version 1.0.0) [Research materials]. https://doi.org/10.5281/zenodo.19894616. 
 
 ---
 
