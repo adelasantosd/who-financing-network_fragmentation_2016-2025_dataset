@@ -2,8 +2,9 @@
 
 Replication materials for the study of WHO financing network fragmentation and systemic risk in global health governance, 2016–2025.
 
-**Associated article:**  
-Santos Domínguez, A. B., & Ballesteros Pérez, C. (2026). *Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of Systemic Risk in Global Health Governance*. **McGill Journal of Global Health, 15**(1), 23–31. Published online 28 April 2026. 
+## Associated Publication
+
+Santos Domínguez, A. B., & Ballesteros Pérez, C. E. (2026). *Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of a Systemic Risk in Global Health Governance*. **McGill Journal of Global Health, 15**(1), 23–31. https://doi.org/10.26443/mjgh.v15i1.1926
 
 **PAPIIT Project:**  
 *Critical Transitions in Global Society and World Politics*
@@ -14,7 +15,7 @@ Santos Domínguez, A. B., & Ballesteros Pérez, C. (2026). *Network Fragmentatio
 
 This repository contains replication materials associated with the article:
 
-> Santos Domínguez, A. B., & Ballesteros Pérez, C. (2026). *Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of Systemic Risk in Global Health Governance*. **McGill Journal of Global Health, 15**(1), 23–31.
+> Santos Domínguez, A. B., & Ballesteros Pérez, C. E. (2026). *Network Fragmentation and the 2025 Funding Shock: Early Warning Signs of a Systemic Risk in Global Health Governance*. **McGill Journal of Global Health, 15**(1), 23–31. https://doi.org/10.26443/mjgh.v15i1.1926
 
 The study applies social network analysis (SNA) to WHO financing and implementation networks across five programme-budget biennia: 2016–2017, 2018–2019, 2020–2021, 2022–2023, and 2024–2025. It interprets longitudinal structural change through the lens of critical transitions theory, with particular attention to fragmentation, modularity, density, clustering, connectivity, and early-warning dynamics.
 
